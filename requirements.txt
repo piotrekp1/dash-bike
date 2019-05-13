@@ -3,3 +3,4 @@ pandas==0.24.2
 plotly==3.9.0
 dash_core_components==0.47.0
 dash_html_components==0.16.0
+tables
