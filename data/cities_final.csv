@@ -1,0 +1,358 @@
+city,distance
+Poland - Plock,0
+Poland - Wloclawek,45
+Poland - Lodz,88
+Poland - Torun,90
+Poland - Warsaw,96
+Poland - Grudziadz,122
+Poland - Bydgoszcz,131
+Poland - Kalisz,141
+Poland - Olsztyn,146
+Poland - Radom,162
+Poland - Elblag,180
+Poland - Lidzbark Warminski,185
+Poland - Poznan,189
+Poland - Kielce,197
+Poland - Czestochowa,197
+Poland - Gdansk,212
+Poland - Sopot,224
+Poland - Gdynia,232
+Poland - Bialystok,242
+Poland - Wroclaw,244
+Poland - Lublin,244
+Russia - Kaliningrad,246
+Poland - Dabrowa Gornicza,249
+Belarus - Grodno,276
+Poland - Krakow,277
+Belarus - Brzesc,304
+Czech Republic - Ostrava,317
+Poland - Szczecin,359
+Germany - Saxony - Gorlitz,360
+Lithuania - Klaipeda,364
+Czech Republic - Olomouc,371
+Czech Republic - Hradec Kralove,374
+Slovakia - Zilina,376
+Czech Republic - Liberec,377
+Germany - Brandenburg - Cottbus,378
+Lithuania - Kaunas,382
+Slovakia - Poprad,391
+Slovakia - Presov,409
+Ukraine - L'viv,427
+Germany - Berlin - Berlin,429
+Belarus - Baranovichi,430
+Slovakia - Humenne,431
+Czech Republic - Brno,432
+Lithuania - Vilnius,439
+Slovakia - Kosice,440
+Lithuania - Siauliai,444
+Czech Republic - Usti nad Labem,445
+Germany - Mecklenburg-Western Pomerania - Neubrandenburg,446
+Latvia - Liepaja,449
+Germany - Brandenburg - Potsdam,451
+Czech Republic - Prague,458
+Ukraine - Uzhgorod,473
+Germany - Mecklenburg-Western Pomerania - Stralsund,481
+Hungary - Miskolc,500
+Germany - Saxony - Chemnitz,506
+Germany - Saxony-Anhalt - Dessau-Rosslau,516
+Germany - Saxony - Leipzig,521
+Slovakia - Bratislava,522
+Latvia - Jelgava,525
+Belarus - Salihorsk,530
+Ukraine - Ternopil,531
+Germany - Mecklenburg-Western Pomerania - Rostock,534
+Austria - Lower Austria - Gmund,536
+Austria - Vienna - Vienna,537
+Germany - Saxony - Zwickau,539
+Czech Republic - Plzen,541
+Germany - Saxony-Anhalt - Halle,544
+Austria - Lower Austria - Bruck an der Leitha,544
+Belarus - Minsk,545
+Germany - Saxony-Anhalt - Magdeburg,551
+Latvia - Ventspils,553
+Sweden - Malmo,555
+Germany - Thuringia - Gera,558
+Austria - Lower Austria - St. Polten,563
+Hungary - Budapest,564
+Latvia - Riga,566
+Germany - Mecklenburg-Western Pomerania - Schwerin,568
+Germany - Mecklenburg-Western Pomerania - Wismar,570
+Austria - Burgenland - Eisenstadt,570
+Germany - Saxony - Plauen,572
+Hungary - Debrecen,575
+Latvia - Daugavpils,578
+Austria - Upper Austria - Freistadt,580
+Denmark - Copenhagen,582
+Germany - Thuringia - Jena,588
+Denmark - Naestved,601
+Germany - Thuringia - Weimar,603
+Germany - Lower Saxony - Wolfsburg,605
+Austria - Upper Austria - Linz,608
+Belarus - Barysaw,614
+Ukraine - Khmelnytskyi,617
+Germany - Schleswig-Holstein - Lubeck,620
+Austria - Upper Austria - Eferding,620
+Germany - Thuringia - Erfurt,623
+Germany - Bavaria - Passau,624
+Germany - Lower Saxony - Braunschweig,625
+Hungary - Kecskemet,629
+Romania - Oradea,631
+Austria - Upper Austria - Grieskirchen,635
+Germany - Bavaria - Bayreuth,637
+Germany - Lower Saxony - Salzgitter,638
+Belarus - Babruysk,644
+Germany - Lower Saxony - Celle,652
+Estonia - Kuressaare,659
+Germany - Hamburg - Hamburg,660
+Germany - Schleswig-Holstein - Norderstedt,662
+Germany - Bavaria - Regensburg,664
+Latvia - Valmiera,664
+Austria - Styria - Furstenfeld,664
+Germany - Schleswig-Holstein - Kiel,665
+Germany - Lower Saxony - Hildesheim,665
+Germany - Schleswig-Holstein - Neumunster,669
+Germany - Lower Saxony - Hannover,677
+Belarus - Polotsk,678
+Germany - Lower Saxony - Gottingen,679
+Austria - Styria - Feldbach,680
+Austria - Styria - Graz,682
+Latvia - Gulbene,685
+Denmark - Odense,688
+Germany - Bavaria - Nuremberg,696
+Hungary - Szeged,701
+Romania - Cluj-Napoca,701
+Hungary - Kaposvar,702
+Austria - Salzburg - Salzburg,710
+Germany - Schleswig-Holstein - Flensburg,722
+Belarus - Mogilev,725
+Slovenia - Maribor,728
+Denmark - Aarhus,735
+Germany - Bremen - Bremen,736
+Germany - Bavaria - Wurzburg,748
+Belarus - Vitebsk,749
+Sweden - Gothenburg,756
+Germany - Bavaria - Munich,758
+Sweden - Stockholm,762
+Germany - North Rhine-Westphalia - Bielefeld,763
+Belarus - Gomel,766
+Slovenia - Celje,773
+Croatia - Osijek,781
+Estonia - Tartu,785
+Ukraine - Kyiv,786
+Moldova - Balti,792
+Croatia - Zagreb,796
+Slovenia - Kranj,801
+Denmark - Aalborg,803
+Serbia - Novi Sad,811
+Germany - Hesse - Frankfurt,813
+Slovenia - Ljubljana,815
+Sweden - Uppsala,824
+Romania - Iasi,824
+Estonia - Tallinn,829
+Austria - Tyrol - Innsbruck,836
+Germany - North Rhine-Westphalia - Dortmund,847
+Germany - Baden-Wurttemberg - Heidelberg,847
+Germany - Baden-Wurttemberg - Stuttgart,853
+Germany - Baden-Wurttemberg - Mannheim,857
+Serbia - Belgrade,861
+Germany - North Rhine-Westphalia - Bochum,864
+Germany - North Rhine-Westphalia - Essen,879
+Romania - Brasov,879
+Netherlands - Groningen,886
+Croatia - Rijeka,890
+Bosnia-Herzegovina - Tuzla,894
+Germany - North Rhine-Westphalia - Bonn,894
+Estonia - Kohtla-Jarve,895
+Germany - North Rhine-Westphalia - Duisburg,896
+Germany - North Rhine-Westphalia - Cologne,897
+Moldova - Chisinau,899
+Germany - North Rhine-Westphalia - Dusseldorf,901
+Finland - Espoo,905
+Finland - Helsinki,908
+Estonia - Narva,925
+Germany - Baden-Wurttemberg - Konstanz,927
+Bosnia-Herzegovina - Zenica,937
+Liechtenstein - Vaduz,946
+Serbia - Kragujevac,953
+Moldova - Tiraspol,955
+Italy - Venice,956
+Moldova - Cahul,962
+Romania - Ploiesti,964
+Germany - Saarland - Saarbrucken,965
+Switzerland - Graubunden - Chur,968
+Bosnia-Herzegovina - Sarajevo,972
+Germany - Baden-Wurttemberg - Freiburg,984
+Switzerland - Zurich - Zurich,985
+Russia - Novgorod,986
+Norway - Oslo,989
+Netherlands - Utrecht,994
+Luxembourg - Ettelbruck,995
+Luxembourg - Luxembourg,1004
+Netherlands - Amsterdam,1005
+Romania - Bucharest,1017
+Luxembourg - Esch-sur-Alzette,1019
+Belgium - Luxembourg - Arlon,1021
+Montenegro - Pljevlja,1022
+Luxembourg - Differdange,1024
+Netherlands - Rotterdam,1041
+Ukraine - Odesa,1043
+Russia - Saint-Petersburg,1051
+Belgium - Brussels - Brussels,1076
+Switzerland - Bern - Bern,1078
+San Marino - San Marino,1097
+Italy - Milan,1098
+Kosovo - Pristina,1104
+Montenegro - Podgorica,1125
+Bulgaria - Sofia,1128
+Ukraine - Dnipro,1177
+North Macedonia - Skopje,1180
+Switzerland - Geneva - Geneva,1208
+Italy - Turin,1209
+Russia - Moscow,1220
+Albania - Tirana,1247
+France - Ile-de-France - Paris,1289
+Italy - Rome,1303
+Vatican City State - Vatican City,1303
+Monaco - Monaco,1336
+Russia - Ryazan,1343
+France - Provence-Alpes-Cote d'Azur - Nice,1347
+United Kingdom - England - London,1362
+Italy - Naples,1365
+United Kingdom - England - Birmingham,1461
+Turkey - Istanbul,1462
+Finland - Kemi,1494
+United Kingdom - Scotland - Edinburgh,1532
+Turkey - Bursa,1547
+United Kingdom - Wales - Cardiff,1569
+Finland - Rovaniemi,1590
+United Kingdom - Scotland - Glasgow,1597
+Isle of Man - Douglas,1612
+Russia - Nizhny Novgorod,1623
+Greece - Athens,1649
+Turkey - Izmir,1673
+United Kingdom - Northern Ireland - Belfast,1704
+Turkey - Ankara,1726
+Ireland - Dublin,1738
+Andorra - Andorra La Vella,1758
+Spain - Barcelona - Barcelona,1813
+Faroe Islands - Torshavn,1892
+Malta - Valletta,1895
+Tunisia - Tunis,1902
+Norway - Tromso,1906
+Russia - Kazan,1940
+Spain - Majorca - Palma,1945
+Russia - Murmansk,1960
+Russia - Samara,2034
+Kazakhstan - Oral,2168
+Algeria - Algiers,2184
+Russia - Izhevsk,2189
+Cyprus - Nicosia,2212
+Spain - Madrid,2230
+Georgia - Tbilisi,2237
+Libya - Tripoli,2245
+Armenia - Yerevan,2333
+Russia - Perm,2369
+Russia - Ufa,2383
+Lebanon - Beirut,2425
+Syria - Damascus,2497
+Israel - Tel Aviv,2579
+Israel - Jerusalem,2627
+Jordan - Amman,2637
+Russia - Yekaterinburg,2639
+Russia - Belushya Guba,2651
+Azerbaijan - Baku,2652
+Egypt - Cairo,2672
+Gibraltar - Gibraltar,2679
+Iceland - Reykjavik,2692
+Portugal - Lisbon,2694
+Norway - Svalbard - Longyearbyen,2867
+Greenland - Ittoqqortoormiit,2882
+Iraq - Baghdad,2911
+Morocco - Rabat,2947
+Morocco - Casablanca,3029
+Iran - Tehran,3113
+Greenland - Danmarkshavn,3137
+Turkmenistan - Ashgabat,3388
+Kuwait - Kuwait City,3461
+Russia - Omsk,3462
+Kazakhstan - Nursultan,3492
+Saudi Arabia - Riyadh,3844
+Portugal - Azores - Ponta Delgada,3849
+Russia - Norilsk,3879
+Uzbekistan - Tashkent,3890
+Bahrain - Manama,3895
+Western Sahara - El Aaiun,3921
+Greenland - Kangerlussuaq,4000
+Russia - Novosibirsk,4032
+Qatar - Doha,4034
+Tajikistan - Dushanbe,4040
+Greenland - Nuuk,4125
+Canada - Nunavut - Alert,4133
+Kyrgyzstan - Bishkek,4149
+United Arab Emirates - Dubai - Dubai,4247
+Sudan - Khartoum,4252
+United Arab Emirates - Abu Dhabi - Abu Dhabi,4267
+Kazakhstan - Almaty,4281
+Russia - Khatanga,4337
+Greenland - Qaanaaq,4348
+Afghanistan - Kabul,4361
+Greenland - Thule Air Base,4363
+Eritrea - Asmara,4464
+Chad - N'Djamena,4504
+Oman - Muscat,4588
+Niger - Niamey,4604
+Yemen - Sana,4658
+Pakistan - Islamabad,4686
+Burkina Faso - Ouagadougou,4843
+Mauritania - Nouakchott,4921
+Pakistan - Lahore,4934
+Nigeria - Abuja,4947
+Canada - Newfoundland and Labrador - St. John's,4994
+Pakistan - Sindh - Karachi,5002
+Djibouti - Djibouti,5005
+Mali - Bamako,5068
+Ethiopia - Addis Ababa,5126
+Nigeria - Lagos,5325
+Senegal - Dakar,5326
+Benin - Porto Novo,5340
+Central African Republic - Bangui,5343
+India - Delhi - New Delhi,5365
+Gambia - Banjul,5398
+South Sudan - Juba,5400
+Togo - Lome,5417
+Cameroon - Yaounde,5449
+Ghana - Accra,5521
+Canada - Nova Scotia - Halifax,5857
+India - Maharashtra - Mumbai,5887
+Nepal - Kathmandu,5986
+Kenya - Nairobi,6177
+Congo Dem. Rep. - Kinshasa,6316
+Canada - Quebec - Montreal,6378
+USA - Massachusetts - Boston,6475
+Canada - Ontario - Ottawa,6503
+India - West Bengal - Kolkata,6612
+Bangladesh - Dhaka,6657
+India - Karnataka - Bangalore,6721
+USA - New York - New York,6779
+Canada - Ontario - Toronto,6849
+China - Beijing Municipality - Beijing,7017
+USA - Michigan - Detroit,7158
+USA - Illinois - Chicago,7441
+Myanmar - Yangon,7628
+South Korea - Seoul,7812
+Vietnam - Hanoi,7923
+China - Shanghai Municipality - Shanghai,8049
+Thailand - Bangkok,8187
+Hong Kong - Hong Kong,8362
+Taiwan - Taipei,8588
+Japan - Tokyo,8640
+South Africa - Johannesburg,8761
+Cuba - Havana,8772
+Venezuela - Caracas,8860
+USA - California - San Francisco,9349
+Philippines - Manila,9477
+Singapore - Singapore,9499
+USA - California - Los Angeles,9582
+Mexico - Ciudad de Mexico - Mexico City,10104
+Indonesia - Jakarta Special Capital Region - Jakarta,10351
+Argentina - Buenos Aires,12248
