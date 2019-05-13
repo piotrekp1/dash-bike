@@ -2,6 +2,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import base64
+import os
 
 from statProvider import StatProvider
 
@@ -204,6 +205,7 @@ app.layout = html.Div([
 ], style={'align': 'center', 'backgroundColor': colors['background']}
 )
 
+
 # style={'columns': 1})
 if __name__ == '__main__':
-    app.run_server(port=80)
+    app.run_server(port=int(os.environ['PORT']))
