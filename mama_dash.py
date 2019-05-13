@@ -3,6 +3,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 import base64
 import os
+import sys
 
 from statProvider import StatProvider
 
@@ -208,4 +209,4 @@ app.layout = html.Div([
 
 # style={'columns': 1})
 if __name__ == '__main__':
-    app.run_server(port=int(os.environ['PORT']))
+    app.run_server(port=int(sys.argv[1]))
